@@ -1,2 +1,2 @@
-This is a beginner-level sentiment analysis exercise using Reddit data examining the polarity of comments on the coronavirus megathread. ^X
+This sentiment analysis uses the nltk library in Python to evaluate comments in the Reddit 'Coronavirus' sub. 
 
